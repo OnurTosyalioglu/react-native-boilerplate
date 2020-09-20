@@ -1,9 +1,41 @@
 # React Navite Boilerplate
 
-# Spec
+## Spec
 
-# Structure
+## Structure
+### Page/Layout
+### Component
+### Locale
+### Assets
+### Redux
+### Style
+### Route
+### Config
 
-# Packages
+## Packages
+### UI
+React Native Elements
 
-# Error & Solutions
+### Data
+Lodash
+Axios
+
+### Machine Interaction
+#### Camera
+#### GPS
+#### Storage
+
+### 3rd Party Services
+Firebase
+
+### Navigation
+React Navigation
+
+### Redux
+Redux
+React Redux
+Redux Thunk
+
+## Build, CI/CD
+
+## Error & Solutions

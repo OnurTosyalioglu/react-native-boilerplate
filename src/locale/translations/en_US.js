@@ -1,3 +1,19 @@
 export default {
-
+	app: '',
+	catchword: '',
+	introWordFirst: '',
+	introWordSecond: '',
+	introWordThird: '',
+	login: 'Kayıt',
+	signup: '',
+	continueWithFacebook: '',
+	continueWithGoogle: '',
+	recover: '',
+	send: '',
+	forgotPassword: '',
+	rememberMe: '',
+	alreadyHaveAnAccount: '',
+	dontHaveAnAccount: '',
+	profile: '',
+	account: '',
 }

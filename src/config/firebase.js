@@ -1,5 +1,9 @@
 import firebase from 'firebase'
 
-firebase.initializeApp({})
+const config = {
+
+}
+
+firebase.initializeApp(config)
 
 export default firebase
