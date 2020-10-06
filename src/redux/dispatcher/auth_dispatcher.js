@@ -13,13 +13,13 @@ export const signinWithFacebook = () => {
 	}
 }
 
-export const loginWithEmail = () => {  
+export const loginWithEmail = (user) => {  
 	return (dispatch) => { 
 
 	}
 }
 
-export const signupWithEmail = () => {  
+export const signupWithEmail = (user) => {  
 	return (dispatch) => { 
 
 	}
