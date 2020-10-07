@@ -1,7 +1,16 @@
 export default {
 	intro: 'intro',
-	home: 'home',
+	tabs: 'tabs',
 	signup: 'signup',
 	login: 'login',
 	recover: 'recover',
+	home: 'home',
+	chat: 'chat',
+	inbox: 'inbox',
+	favorites: 'favorites',
+	profile: 'profile',
+	search: 'search',
+	searchResult: 'searchResult',
+	share: 'share',
+	shareDetail: 'shareDetail',
 }
