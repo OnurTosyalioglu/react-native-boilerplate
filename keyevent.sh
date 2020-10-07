@@ -1,1 +1,1 @@
-adb shell input keyevent 
+adb shell input keyevent $1
