@@ -8,6 +8,8 @@ import props from './props'
 
 import i18n from '../../locale/i18n'
 
+import Intro from '../intro/Intro'
+
 const Intro = (props) => {  
 	return <View>
 	</View>
