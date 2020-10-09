@@ -12,6 +12,8 @@ target 'RNStarter' do
 
   pod 'RNLocalize', :path => '../node_modules/react-native-localize'
 
+  pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
+
   target 'RNStarterTests' do
     inherit! :complete
     # Pods for testing
