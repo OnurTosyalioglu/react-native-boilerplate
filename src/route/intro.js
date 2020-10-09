@@ -4,10 +4,10 @@ import routes from './routes'
 const intro = [
 	{
 		name: routes.intro,
-		component: Intro,
+		mponent: Intro,
 		key: routes.intro,
 		options: {
-
+			
 		},
 	},
 ]

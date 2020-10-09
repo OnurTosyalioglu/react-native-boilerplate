@@ -2,8 +2,8 @@ import auth from './auth'
 import tabs from './tabs'
 
 const index = [
-	...tabs,
 	...auth,
+	...tabs,
 ]
 
 export default index

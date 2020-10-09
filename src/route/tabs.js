@@ -4,10 +4,10 @@ import routes from './routes'
 const tabs = [
 	{
 		name: routes.tabs,
-		component: Tabs,
 		key: routes.tabs,
+		component: Tabs,
 		options: {
-
+			headerShown: false,
 		}
 	}
 ]

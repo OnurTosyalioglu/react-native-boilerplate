@@ -9,25 +9,19 @@ const auth = [
 		name: routes.login,
 		component: Login,
 		key: routes.login,
-		options: {
-
-		},
+		options: {},
 	},
 	{
 		name: routes.signup,
 		component: Signup,
 		key: routes.signup,
-		options: {
-
-		},
+		options: {},
 	},
 	{
 		name: routes.recover,
 		component: Recover,
 		key: routes.recover,
-		options: {
-
-		},
+		options: {},
 	},
 ]
 

@@ -16,13 +16,7 @@ const tabIndex = [
     key: routes.home,
     options: {
       tabBarLabel: 'Home',
-      tabBarIcon: ({ color, size }) => (
-        <AntDesign
-          name='home'
-          color={color}
-          size={size}
-        />
-      ),
+			tabBarIcon: (props) => (<AntDesign name='home' />)
     },
   },
   {
@@ -31,13 +25,7 @@ const tabIndex = [
     key: routes.search,
     options: {
       tabBarLabel: 'Search',
-      tabBarIcon: ({ color, size }) => (
-        <AntDesign
-          name='search1'
-          color={color}
-          size={size}
-        />
-      ),
+			tabBarIcon: (props) => (<AntDesign name='search1' />)
     },
   },
   {
@@ -46,13 +34,7 @@ const tabIndex = [
     key: routes.share,
     options: {
       tabBarLabel: 'Share',
-      tabBarIcon: ({ color, size }) => (
-        <AntDesign
-          name='pluscircleo'
-          color={color}
-          size={size}
-        />
-      ),
+			tabBarIcon: (props) => (<AntDesign name='pluscircleo' />)
     },
   },
   {
@@ -61,13 +43,7 @@ const tabIndex = [
     key: routes.inbox,
     options: {
       tabBarLabel: 'Inbox',
-      tabBarIcon: ({ color, size }) => (
-        <AntDesign
-          name='message1'
-          color={color}
-          size={size}
-        />
-      ),
+			tabBarIcon: (props) => (<AntDesign name='message1' />)
     },
   },
   {
@@ -76,13 +52,7 @@ const tabIndex = [
     key: routes.profile,
     options: {
       tabBarLabel: 'Profile',
-      tabBarIcon: ({ color, size }) => (
-        <AntDesign
-          name='user'
-          color={color}
-          size={size}
-        />
-      ),
+			tabBarIcon: (props) => (<AntDesign name='user' />)
     },
   },
 ]
